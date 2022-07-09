@@ -187,3 +187,239 @@
 2022-07-09 12:00:13 - Closing JPA EntityManagerFactory for persistence unit 'default'
 2022-07-09 12:00:13 - HikariPool-1 - Shutdown initiated...
 2022-07-09 12:00:13 - HikariPool-1 - Shutdown completed.
+2022-07-09 15:02:34 - Starting DemoApplication using Java 17.0.3 on Saradhvi with PID 12976 (C:\Users\SARADHVI\Desktop\DS\demo\target\classes started by SARADHVI in C:\Users\SARADHVI\Desktop\DS\demo)
+2022-07-09 15:02:34 - No active profile set, falling back to default profiles: default
+2022-07-09 15:02:34 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-09 15:02:34 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-09 15:02:35 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-09 15:02:36 - Finished Spring Data repository scanning in 68 ms. Found 6 JPA repository interfaces.
+2022-07-09 15:02:36 - Tomcat initialized with port(s): 8082 (http)
+2022-07-09 15:02:36 - Starting service [Tomcat]
+2022-07-09 15:02:36 - Starting Servlet engine: [Apache Tomcat/9.0.48]
+2022-07-09 15:02:36 - Initializing Spring embedded WebApplicationContext
+2022-07-09 15:02:36 - Root WebApplicationContext: initialization completed in 1691 ms
+2022-07-09 15:02:36 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-07-09 15:02:36 - HHH000412: Hibernate ORM core version 5.4.32.Final
+2022-07-09 15:02:36 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-07-09 15:02:37 - HikariPool-1 - Starting...
+2022-07-09 15:02:37 - HikariPool-1 - Start completed.
+2022-07-09 15:02:37 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2022-07-09 15:02:38 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-07-09 15:02:38 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-09 15:02:39 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-07-09 15:02:39 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-07-09 15:02:39 - LiveReload server is running on port 35729
+2022-07-09 15:02:39 - Tomcat started on port(s): 8082 (http) with context path ''
+2022-07-09 15:02:39 - Context refreshed
+2022-07-09 15:02:39 - Found 1 custom documentation plugin(s)
+2022-07-09 15:02:39 - Scanning for api listing references
+2022-07-09 15:02:39 - Started DemoApplication in 5.492 seconds (JVM running for 6.39)
+2022-07-09 15:04:31 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-09 15:04:31 - Initializing Servlet 'dispatcherServlet'
+2022-07-09 15:04:31 - Completed initialization in 2 ms
+2022-07-09 15:09:24 - User is added 
+2022-07-09 15:17:29 - Starting DemoApplicationTests using Java 17.0.3 on Saradhvi with PID 22120 (started by SARADHVI in C:\Users\SARADHVI\Desktop\DS\demo)
+2022-07-09 15:17:29 - No active profile set, falling back to default profiles: default
+2022-07-09 15:17:30 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-09 15:17:30 - Finished Spring Data repository scanning in 90 ms. Found 6 JPA repository interfaces.
+2022-07-09 15:17:31 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-07-09 15:17:31 - HHH000412: Hibernate ORM core version 5.4.32.Final
+2022-07-09 15:17:31 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-07-09 15:17:31 - HikariPool-1 - Starting...
+2022-07-09 15:17:32 - HikariPool-1 - Start completed.
+2022-07-09 15:17:32 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2022-07-09 15:17:33 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-07-09 15:17:33 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-09 15:17:35 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-07-09 15:17:35 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-07-09 15:17:36 - Context refreshed
+2022-07-09 15:17:36 - Found 1 custom documentation plugin(s)
+2022-07-09 15:17:36 - Scanning for api listing references
+2022-07-09 15:17:37 - Started DemoApplicationTests in 7.926 seconds (JVM running for 9.333)
+2022-07-09 15:17:37 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-07-09 15:17:37 - HikariPool-1 - Shutdown initiated...
+2022-07-09 15:17:37 - HikariPool-1 - Shutdown completed.
+2022-07-09 15:17:56 - Starting DemoApplicationTests using Java 17.0.3 on Saradhvi with PID 11100 (started by SARADHVI in C:\Users\SARADHVI\Desktop\DS\demo)
+2022-07-09 15:17:56 - No active profile set, falling back to default profiles: default
+2022-07-09 15:17:58 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-09 15:17:58 - Finished Spring Data repository scanning in 113 ms. Found 6 JPA repository interfaces.
+2022-07-09 15:17:59 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-07-09 15:17:59 - HHH000412: Hibernate ORM core version 5.4.32.Final
+2022-07-09 15:17:59 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-07-09 15:17:59 - HikariPool-1 - Starting...
+2022-07-09 15:17:59 - HikariPool-1 - Start completed.
+2022-07-09 15:17:59 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2022-07-09 15:18:01 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-07-09 15:18:01 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-09 15:18:02 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-07-09 15:18:03 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-07-09 15:18:04 - Context refreshed
+2022-07-09 15:18:04 - Found 1 custom documentation plugin(s)
+2022-07-09 15:18:04 - Scanning for api listing references
+2022-07-09 15:18:04 - Started DemoApplicationTests in 8.24 seconds (JVM running for 9.389)
+2022-07-09 15:18:05 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-07-09 15:18:05 - HikariPool-1 - Shutdown initiated...
+2022-07-09 15:18:05 - HikariPool-1 - Shutdown completed.
+2022-07-09 15:19:08 - Starting DemoApplicationTests using Java 17.0.3 on Saradhvi with PID 6932 (started by SARADHVI in C:\Users\SARADHVI\Desktop\DS\demo)
+2022-07-09 15:19:08 - No active profile set, falling back to default profiles: default
+2022-07-09 15:19:09 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-09 15:19:09 - Finished Spring Data repository scanning in 97 ms. Found 6 JPA repository interfaces.
+2022-07-09 15:19:10 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-07-09 15:19:10 - HHH000412: Hibernate ORM core version 5.4.32.Final
+2022-07-09 15:19:10 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-07-09 15:19:10 - HikariPool-1 - Starting...
+2022-07-09 15:19:10 - HikariPool-1 - Start completed.
+2022-07-09 15:19:10 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2022-07-09 15:19:12 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-07-09 15:19:12 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-09 15:19:13 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-07-09 15:19:13 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-07-09 15:19:14 - Context refreshed
+2022-07-09 15:19:14 - Found 1 custom documentation plugin(s)
+2022-07-09 15:19:14 - Scanning for api listing references
+2022-07-09 15:19:15 - Started DemoApplicationTests in 7.299 seconds (JVM running for 8.512)
+2022-07-09 15:19:15 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-07-09 15:19:15 - HikariPool-1 - Shutdown initiated...
+2022-07-09 15:19:15 - HikariPool-1 - Shutdown completed.
+2022-07-09 15:20:07 - Starting DemoApplicationTests using Java 17.0.3 on Saradhvi with PID 21420 (started by SARADHVI in C:\Users\SARADHVI\Desktop\DS\demo)
+2022-07-09 15:20:07 - No active profile set, falling back to default profiles: default
+2022-07-09 15:20:08 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-09 15:20:08 - Finished Spring Data repository scanning in 80 ms. Found 6 JPA repository interfaces.
+2022-07-09 15:20:09 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-07-09 15:20:09 - HHH000412: Hibernate ORM core version 5.4.32.Final
+2022-07-09 15:20:09 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-07-09 15:20:09 - HikariPool-1 - Starting...
+2022-07-09 15:20:09 - HikariPool-1 - Start completed.
+2022-07-09 15:20:09 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2022-07-09 15:20:11 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-07-09 15:20:11 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-09 15:20:12 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-07-09 15:20:12 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-07-09 15:20:13 - Context refreshed
+2022-07-09 15:20:13 - Found 1 custom documentation plugin(s)
+2022-07-09 15:20:13 - Scanning for api listing references
+2022-07-09 15:20:13 - Started DemoApplicationTests in 6.788 seconds (JVM running for 8.011)
+2022-07-09 15:20:14 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-07-09 15:20:14 - HikariPool-1 - Shutdown initiated...
+2022-07-09 15:20:14 - HikariPool-1 - Shutdown completed.
+2022-07-09 15:20:52 - Starting DemoApplicationTests using Java 17.0.3 on Saradhvi with PID 19336 (started by SARADHVI in C:\Users\SARADHVI\Desktop\DS\demo)
+2022-07-09 15:20:52 - No active profile set, falling back to default profiles: default
+2022-07-09 15:20:53 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-09 15:20:53 - Finished Spring Data repository scanning in 83 ms. Found 6 JPA repository interfaces.
+2022-07-09 15:20:53 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-07-09 15:20:53 - HHH000412: Hibernate ORM core version 5.4.32.Final
+2022-07-09 15:20:54 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-07-09 15:20:54 - HikariPool-1 - Starting...
+2022-07-09 15:20:54 - HikariPool-1 - Start completed.
+2022-07-09 15:20:54 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2022-07-09 15:20:56 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-07-09 15:20:56 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-09 15:20:57 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-07-09 15:20:57 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-07-09 15:20:58 - Context refreshed
+2022-07-09 15:20:58 - Found 1 custom documentation plugin(s)
+2022-07-09 15:20:58 - Scanning for api listing references
+2022-07-09 15:20:59 - Started DemoApplicationTests in 7.525 seconds (JVM running for 8.907)
+2022-07-09 15:20:59 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-07-09 15:20:59 - HikariPool-1 - Shutdown initiated...
+2022-07-09 15:20:59 - HikariPool-1 - Shutdown completed.
+2022-07-09 15:21:20 - Starting DemoApplicationTests using Java 17.0.3 on Saradhvi with PID 17072 (started by SARADHVI in C:\Users\SARADHVI\Desktop\DS\demo)
+2022-07-09 15:21:20 - No active profile set, falling back to default profiles: default
+2022-07-09 15:21:21 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-09 15:21:21 - Finished Spring Data repository scanning in 107 ms. Found 6 JPA repository interfaces.
+2022-07-09 15:21:22 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-07-09 15:21:22 - HHH000412: Hibernate ORM core version 5.4.32.Final
+2022-07-09 15:21:22 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-07-09 15:21:22 - HikariPool-1 - Starting...
+2022-07-09 15:21:23 - HikariPool-1 - Start completed.
+2022-07-09 15:21:23 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2022-07-09 15:21:24 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-07-09 15:21:24 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-09 15:21:25 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-07-09 15:21:26 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-07-09 15:21:27 - Context refreshed
+2022-07-09 15:21:27 - Found 1 custom documentation plugin(s)
+2022-07-09 15:21:27 - Scanning for api listing references
+2022-07-09 15:21:27 - Started DemoApplicationTests in 7.953 seconds (JVM running for 9.464)
+2022-07-09 15:21:28 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-07-09 15:21:28 - HikariPool-1 - Shutdown initiated...
+2022-07-09 15:21:28 - HikariPool-1 - Shutdown completed.
+2022-07-09 15:28:35 - Application shutdown requested.
+2022-07-09 15:28:35 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-07-09 15:28:35 - HikariPool-1 - Shutdown initiated...
+2022-07-09 15:28:35 - HikariPool-1 - Shutdown completed.
+2022-07-09 15:28:57 - Starting DemoApplication using Java 17.0.3 on Saradhvi with PID 16492 (C:\Users\SARADHVI\Desktop\DS\demo\target\classes started by SARADHVI in C:\Users\SARADHVI\Desktop\DS\demo)
+2022-07-09 15:28:57 - No active profile set, falling back to default profiles: default
+2022-07-09 15:28:57 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-09 15:28:57 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-09 15:28:58 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-09 15:28:58 - Finished Spring Data repository scanning in 53 ms. Found 6 JPA repository interfaces.
+2022-07-09 15:28:58 - Tomcat initialized with port(s): 8082 (http)
+2022-07-09 15:28:58 - Starting service [Tomcat]
+2022-07-09 15:28:58 - Starting Servlet engine: [Apache Tomcat/9.0.48]
+2022-07-09 15:28:58 - Initializing Spring embedded WebApplicationContext
+2022-07-09 15:28:58 - Root WebApplicationContext: initialization completed in 1261 ms
+2022-07-09 15:28:58 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-07-09 15:28:58 - HHH000412: Hibernate ORM core version 5.4.32.Final
+2022-07-09 15:28:58 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-07-09 15:28:58 - HikariPool-1 - Starting...
+2022-07-09 15:28:59 - HikariPool-1 - Start completed.
+2022-07-09 15:28:59 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2022-07-09 15:29:00 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-07-09 15:29:00 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-09 15:29:00 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-07-09 15:29:00 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-07-09 15:29:00 - LiveReload server is running on port 35729
+2022-07-09 15:29:01 - Tomcat started on port(s): 8082 (http) with context path ''
+2022-07-09 15:29:01 - Context refreshed
+2022-07-09 15:29:01 - Found 1 custom documentation plugin(s)
+2022-07-09 15:29:01 - Scanning for api listing references
+2022-07-09 15:29:01 - Started DemoApplication in 4.356 seconds (JVM running for 5.094)
+2022-07-09 15:56:39 - Starting DemoApplication using Java 17.0.3 on Saradhvi with PID 18112 (C:\Users\SARADHVI\Desktop\DS\demo\target\classes started by SARADHVI in C:\Users\SARADHVI\Desktop\DS\demo)
+2022-07-09 15:56:39 - No active profile set, falling back to default profiles: default
+2022-07-09 15:56:39 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-09 15:56:39 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-09 15:56:40 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-07-09 15:56:40 - Finished Spring Data repository scanning in 66 ms. Found 6 JPA repository interfaces.
+2022-07-09 15:56:41 - Tomcat initialized with port(s): 8082 (http)
+2022-07-09 15:56:41 - Starting service [Tomcat]
+2022-07-09 15:56:41 - Starting Servlet engine: [Apache Tomcat/9.0.48]
+2022-07-09 15:56:41 - Initializing Spring embedded WebApplicationContext
+2022-07-09 15:56:41 - Root WebApplicationContext: initialization completed in 1878 ms
+2022-07-09 15:56:41 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-07-09 15:56:41 - HHH000412: Hibernate ORM core version 5.4.32.Final
+2022-07-09 15:56:41 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-07-09 15:56:41 - HikariPool-1 - Starting...
+2022-07-09 15:56:41 - HikariPool-1 - Start completed.
+2022-07-09 15:56:41 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2022-07-09 15:56:43 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-07-09 15:56:43 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-07-09 15:56:43 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-07-09 15:56:44 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-07-09 15:56:44 - Unable to start LiveReload server
+2022-07-09 15:56:44 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8082 is already in use
+2022-07-09 15:56:44 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-07-09 15:56:44 - HikariPool-1 - Shutdown initiated...
+2022-07-09 15:56:44 - HikariPool-1 - Shutdown completed.
+2022-07-09 15:56:44 - Stopping service [Tomcat]
+2022-07-09 15:56:44 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-07-09 15:56:44 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8082 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8082 or configure this application to listen on another port.
+
+2022-07-09 15:56:51 - Application shutdown requested.
+2022-07-09 15:56:52 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-07-09 15:56:52 - HikariPool-1 - Shutdown initiated...
+2022-07-09 15:56:52 - HikariPool-1 - Shutdown completed.

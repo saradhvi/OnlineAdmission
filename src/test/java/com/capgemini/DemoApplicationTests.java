@@ -48,7 +48,7 @@ class DemoApplicationTests {
 				e.printStackTrace();
 			}
 			
-		assertNotNull(t);
+		
 			}
         @Test
 		public  void viewAllUserDetails()
